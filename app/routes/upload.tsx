@@ -119,10 +119,11 @@ const Upload = () => {
                         </form>
                     )}
                 </div>
-                <footer className="text-dark-300 text-center py-4 mt-10">
+                 <footer className="text-dark-300 text-center py-4 mt-10">
         <p className="text-m">
-          © 2025 Kamalpreet Kaur. All rights reserved.
+          © 2025 ResuLyze. All rights reserved.
         </p>
+        <p className="text-m">Made By Kamalpreet Kaur.</p>
       </footer>
             </section>
         </main>
